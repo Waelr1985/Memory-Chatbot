@@ -1,2 +1,5 @@
 streamlit==1.32.0
 python-dateutil==2.8.2 
+faiss-cpu==1.7.3
+openai==0.27.8
+sentence-transformers==2.2.2
